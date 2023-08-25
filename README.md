@@ -8,7 +8,7 @@ The assembly line in your solution consists of a set of workstations each of whi
 
 The project is divided into 3 milestones to help guide you through implementation, debugging and execution. This application is more complex than any one of the workshops and it is recommended that you plan your work accordingly.
 
-![assemblyline](https://github.com/DevAnujV/CPP-AssemblyLine_Project/assets/113152048/a6ffd49d-723e-4e7c-b060-10e2ef9b26a1)
+![assemblyline](https://github.com/DevAnujV/CPP-AssemblyLine_Project/assets/113152048/fe725abe-2904-46c0-a33e-d90005ee1ad4)
 
 
 # Milestone 1
